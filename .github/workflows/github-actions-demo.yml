@@ -26,7 +26,7 @@ jobs:
           tree
       - name: Status
         run: |
-          echo git status
+          git status
       
       
       
